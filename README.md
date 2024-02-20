@@ -23,11 +23,15 @@ At the end of the this project, you will be able to;
 ```
 03-Checkout_Page (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)          
-|----solution
-        |----index.html  
-        |----style.css   
-        |----App.js
+|----img               
+|----checkout.html
+|----checkout.js
+|----checkout1.html
+|----checkout1.js
+|----checkout2.html
+|----checkout2.js
+|----readme.md                 
+|----style.css   
 ```
 
 -  User stories;
